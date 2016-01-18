@@ -21,6 +21,7 @@
  * @copyright 2011 The Open University
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-$plugin->version  = 2013041400;
+$plugin->version  = 2014011800;
+$plugin->component = 'forumngfeature_delete';
 
 $plugin->outestssufficient = true;

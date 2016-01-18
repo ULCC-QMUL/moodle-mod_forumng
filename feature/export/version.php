@@ -22,4 +22,5 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$plugin->version  = 2013012400;
+$plugin->version  = 2016011800;
+$plugin->component = 'forumngfeature_export';
